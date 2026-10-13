@@ -1,0 +1,4 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeCache.txt is different than the directory /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0mCMake Error: The source directory "/home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1
