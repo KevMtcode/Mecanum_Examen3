@@ -154,11 +154,13 @@
       <xacro:inercia_caja m="0.310" x="0.040" y="0.165" z="0.048"/>
     </inertial>
   </link>
+
   <joint name="joint_camara" type="fixed">
     <parent link="base_link"/>
     <child link="camara_link"/>
     <origin xyz="0.14 0 0.08" rpy="0 0 0"/>
   </joint>
+
   <!-- TODO: joint fijo "joint_camara" base_link -> camara_link en la posición de su variante -->
   <link name="camara_optica_link">
     <visual>
@@ -176,6 +178,7 @@
       <xacro:inercia_caja m="0.310" x="0.040" y="0.165" z="0.048"/>
     </inertial>
   </link>
+  
   <joint name="joint_camara_optica" type="fixed">
     <parent link="base_link"/>
     <child link="camara_optica_link"/>
@@ -222,11 +225,16 @@
       <topic>/vel_rueda_${prefijo}</topic>
     </plugin>
   </xacro:macro>
-
+  
   <gazebo>
     <xacro:motor prefijo="del_izq"/>
+    <xacro:motor prefijo="tra_izq"/>
+    <xacro:motor prefijo="del_der"/>
+    <xacro:motor prefijo="tra_der"/>
     <!-- TODO: motores de del_der, tra_izq y tra_der -->
-
+    <plugin filename="gz-sim-joint-state-publisher-system" name="gz::sim::systems::JointStatePublisher"> <!-- JointState plugin only to publish data from gazebo-->
+      <topic>joint_states</topic>
+    </plugin>
     <!-- TODO: plugin gz-sim-joint-state-publisher-system (encoders) -->
   </gazebo>
 

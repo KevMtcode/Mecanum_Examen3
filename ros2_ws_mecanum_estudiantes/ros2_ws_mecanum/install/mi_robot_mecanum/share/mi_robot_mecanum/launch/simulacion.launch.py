@@ -26,6 +26,7 @@ def generate_launch_description():
     xacro_file = os.path.join(pkg, 'urdf', 'mi_robot.urdf.xacro')
     world_file = os.path.join(pkg, 'worlds', 'pista.sdf')
     rviz_file = os.path.join(pkg, 'rviz', 'control.rviz')
+    bridge_config = os.path.join(pkg, 'config', 'bridge.yaml')
 
     robot_description = ParameterValue(Command(['xacro ', xacro_file]), value_type=str)
     rviz = LaunchConfiguration('rviz')

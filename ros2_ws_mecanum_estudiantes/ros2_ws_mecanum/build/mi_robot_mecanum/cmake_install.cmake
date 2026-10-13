@@ -1,8 +1,8 @@
-# Install script for directory: /home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum
+# Install script for directory: /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/kevin/ros2_ws_mecanum/install/mi_robot_mecanum")
+  set(CMAKE_INSTALL_PREFIX "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_robot_mecanum")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -44,19 +44,19 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE DIRECTORY FILES
-    "/home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum/urdf"
-    "/home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum/worlds"
-    "/home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum/launch"
-    "/home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum/rviz"
+    "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum/urdf"
+    "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum/worlds"
+    "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum/launch"
+    "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum/rviz"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mi_robot_mecanum")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mi_robot_mecanum")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/mi_robot_mecanum")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/mi_robot_mecanum")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -64,7 +64,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum/environment" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/ament_prefix_path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum/environment" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/ament_prefix_path.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -72,42 +72,42 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum/environment" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum/environment" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/path.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.bash")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.bash")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.sh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.sh")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.zsh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.zsh")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/package.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/package.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/packages/mi_robot_mecanum")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/packages/mi_robot_mecanum")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum/cmake" TYPE FILE FILES
-    "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig.cmake"
-    "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig-version.cmake"
+    "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig.cmake"
+    "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig-version.cmake"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mi_robot_mecanum" TYPE FILE FILES "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -118,5 +118,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

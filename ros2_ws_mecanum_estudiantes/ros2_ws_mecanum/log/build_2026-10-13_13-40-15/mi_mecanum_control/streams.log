@@ -1,0 +1,22 @@
+[0.553s] Invoking command in '/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_mecanum_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_mecanum_control build --build-base /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/build install --record /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/install.log --install-scripts $base/lib/mi_mecanum_control --single-version-externally-managed install_data
+[0.730s] running egg_info
+[0.742s] writing ../../build/mi_mecanum_control/mi_mecanum_control.egg-info/PKG-INFO
+[0.742s] writing dependency_links to ../../build/mi_mecanum_control/mi_mecanum_control.egg-info/dependency_links.txt
+[0.742s] writing entry points to ../../build/mi_mecanum_control/mi_mecanum_control.egg-info/entry_points.txt
+[0.742s] writing requirements to ../../build/mi_mecanum_control/mi_mecanum_control.egg-info/requires.txt
+[0.742s] writing top-level names to ../../build/mi_mecanum_control/mi_mecanum_control.egg-info/top_level.txt
+[0.766s] reading manifest file '../../build/mi_mecanum_control/mi_mecanum_control.egg-info/SOURCES.txt'
+[0.767s] writing manifest file '../../build/mi_mecanum_control/mi_mecanum_control.egg-info/SOURCES.txt'
+[0.767s] running build
+[0.767s] running build_py
+[0.767s] running install
+[0.772s] running install_lib
+[0.785s] running install_data
+[0.785s] running install_egg_info
+[0.797s] removing '/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control-1.0.0-py3.12.egg-info' (and everything under it)
+[0.797s] Copying ../../build/mi_mecanum_control/mi_mecanum_control.egg-info to /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control-1.0.0-py3.12.egg-info
+[0.798s] running install_scripts
+[0.881s] Installing cinematica script to /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_mecanum_control/lib/mi_mecanum_control
+[0.881s] Installing ir_a_puntos script to /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_mecanum_control/lib/mi_mecanum_control
+[0.881s] writing list of installed files to '/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/install.log'
+[0.908s] Invoked command in '/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_mecanum_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_mecanum_control build --build-base /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/build install --record /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_mecanum_control/install.log --install-scripts $base/lib/mi_mecanum_control --single-version-externally-managed install_data

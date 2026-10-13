@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum
+CMAKE_SOURCE_DIR = /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum
+CMAKE_BINARY_DIR = /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -142,9 +142,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

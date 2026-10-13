@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum
+CMAKE_SOURCE_DIR = /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum
+CMAKE_BINARY_DIR = /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum /home/kevin/ros2_ws_mecanum/src/mi_robot_mecanum /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum /home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum /home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uninstall.dir/depend
 

@@ -242,7 +242,7 @@
 			"destination" : "share/ament_index/resource_index/package_run_dependencies",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mi_robot_mecanum"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mi_robot_mecanum"
 			],
 			"type" : "file"
 		},
@@ -252,7 +252,7 @@
 			"destination" : "share/ament_index/resource_index/parent_prefix_path",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/mi_robot_mecanum"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/mi_robot_mecanum"
 			],
 			"type" : "file"
 		},
@@ -272,7 +272,7 @@
 			"destination" : "share/mi_robot_mecanum/environment",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/ament_prefix_path.dsv"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/ament_prefix_path.dsv"
 			],
 			"type" : "file"
 		},
@@ -292,7 +292,7 @@
 			"destination" : "share/mi_robot_mecanum/environment",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/path.dsv"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/path.dsv"
 			],
 			"type" : "file"
 		},
@@ -302,7 +302,7 @@
 			"destination" : "share/mi_robot_mecanum",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.bash"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.bash"
 			],
 			"type" : "file"
 		},
@@ -312,7 +312,7 @@
 			"destination" : "share/mi_robot_mecanum",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.sh"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.sh"
 			],
 			"type" : "file"
 		},
@@ -322,7 +322,7 @@
 			"destination" : "share/mi_robot_mecanum",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.zsh"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.zsh"
 			],
 			"type" : "file"
 		},
@@ -332,7 +332,7 @@
 			"destination" : "share/mi_robot_mecanum",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.dsv"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/local_setup.dsv"
 			],
 			"type" : "file"
 		},
@@ -342,7 +342,7 @@
 			"destination" : "share/mi_robot_mecanum",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/package.dsv"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_environment_hooks/package.dsv"
 			],
 			"type" : "file"
 		},
@@ -352,7 +352,7 @@
 			"destination" : "share/ament_index/resource_index/packages",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/packages/mi_robot_mecanum"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_index/share/ament_index/resource_index/packages/mi_robot_mecanum"
 			],
 			"type" : "file"
 		},
@@ -362,8 +362,8 @@
 			"destination" : "share/mi_robot_mecanum/cmake",
 			"paths" : 
 			[
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig.cmake",
-				"/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig-version.cmake"
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig.cmake",
+				"/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/ament_cmake_core/mi_robot_mecanumConfig-version.cmake"
 			],
 			"type" : "file"
 		},

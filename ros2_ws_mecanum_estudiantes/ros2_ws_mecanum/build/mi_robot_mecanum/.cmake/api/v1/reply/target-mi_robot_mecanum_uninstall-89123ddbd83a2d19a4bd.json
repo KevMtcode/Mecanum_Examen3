@@ -98,13 +98,13 @@
 		{
 			"backtrace" : 9,
 			"isGenerated" : true,
-			"path" : "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles/mi_robot_mecanum_uninstall",
+			"path" : "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles/mi_robot_mecanum_uninstall",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/kevin/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles/mi_robot_mecanum_uninstall.rule",
+			"path" : "/home/kevin/Mecanum-Examen-3/Mecanum_Examen3/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/build/mi_robot_mecanum/CMakeFiles/mi_robot_mecanum_uninstall.rule",
 			"sourceGroupIndex" : 1
 		}
 	],
